@@ -1,6 +1,6 @@
 require 'sinatra'
 
 get '/' do 
-	"hello bitches"
+	"hello friends"
 end
 
