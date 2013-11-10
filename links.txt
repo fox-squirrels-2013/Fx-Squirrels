@@ -22,3 +22,8 @@ Current Token
 # App ID:	465495653562684
 # App Secret:	a452120d11df6ee6b9dfe4b1c83540fa
 token = "465495653562684|psqtzGF27iSbITEdEk6tkM-OFGQ"
+
+
+
+Set Permissions
+https://developers.facebook.com/tools/explorer?method=GET&path=13958307%3Ffields%3Did%2Cname
