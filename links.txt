@@ -1,0 +1,24 @@
+FB Graph
+https://github.com/nov/fb_graph
+
+
+FB Graph Wiki
+https://github.com/nov/fb_graph/wiki/Search
+
+Making FB Graph Access Token
+https://github.com/nov/fb_graph/wiki/App-Access-Token
+
+
+Ruby Stuff
+
+Make New Token
+# app = FbGraph::Application.new('id', :secret => 'secret')
+# app.get_access_token
+# token = app.get_access_token.access_token
+
+
+Current Token
+# AreyouagrumpyB*tch
+# App ID:	465495653562684
+# App Secret:	a452120d11df6ee6b9dfe4b1c83540fa
+token = "465495653562684|psqtzGF27iSbITEdEk6tkM-OFGQ"
